@@ -1,4 +1,4 @@
-# SimonGame
+<h1> SimonGame </h1>
 
 # Overview
 SimonWorld is a Java implementation of the classic memory game "Simon Says". Built using Java libraries like javalib.funworld.World and javalib.worldimages, this interactive game challenges players to remember and replicate a sequence of colors. It progressively increases in difficulty as the player successfully replicates longer sequences.
